@@ -5,14 +5,14 @@
     "": {
       "name": "lit_vincent_slidev",
       "dependencies": {
-        "@slidev/cli": "^52.10.1",
+        "@slidev/cli": "latest",
         "@slidev/theme-default": "latest",
         "@slidev/theme-seriph": "latest",
-        "slidev-theme-the-unnamed": "^0.0.22",
-        "vue": "^3.5.25",
+        "slidev-theme-the-unnamed": "latest",
+        "vue": "latest",
       },
       "devDependencies": {
-        "playwright-chromium": "^1.57.0",
+        "playwright-chromium": "latest",
       },
     },
   },
